@@ -2,6 +2,8 @@
 
 Olá meu nome é Pedro, tenho 19 anos e meu levo amo web desenvolvimento.
 
+<hr>
+
 ### 💻 Tecnologias
 
 <p>
@@ -27,6 +29,8 @@ Olá meu nome é Pedro, tenho 19 anos e meu levo amo web desenvolvimento.
         <img alt="Node" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">    
     </a>
 </p>
+
+<hr>
 
 ### 🀄 Fale comigo?
 
