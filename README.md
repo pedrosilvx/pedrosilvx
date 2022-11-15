@@ -1,6 +1,14 @@
-# Olá :dove:
+# Olá, meu nome é Pedro
 
-Olá meu nome é Pedro, tenho 19 anos e meu levo amo web desenvolvimento.
+<hr>
+
+### 🀄 Fale comigo?
+
+<p>
+    <a href="https://discordapp.com/users/336993368561418244/">
+        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=pdr%238400"/>
+    </a>
+</p>
 
 <hr>
 
@@ -29,15 +37,3 @@ Olá meu nome é Pedro, tenho 19 anos e meu levo amo web desenvolvimento.
         <img alt="Node" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">    
     </a>
 </p>
-
-<hr>
-
-### 🀄 Fale comigo?
-
-<p>
-    <a href="https://discordapp.com/users/336993368561418244/">
-        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=pdr%238400"/>
-    </a>
-</p>
-
-<hr>
