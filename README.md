@@ -1,39 +1,17 @@
-# Olá, meu nome é Pedro
+## Hi there!
 
-<hr>
+### 🤷‍♂️ About Me
 
-### 🀄 Fale comigo?
+<li> 📚 Never stop learning.</li>
+<li> 📘 Front-end & UI / UX Designer</li>
+<li> 🖌️ I love creating and developing interfaces.</li>
 
-<p>
-    <a href="https://discordapp.com/users/336993368561418244/">
-        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=pdr%238400"/>
-    </a>
-</p>
 
-<hr>
+### 💻 Technologies
 
-### 💻 Tecnologias
-
-<p>
-    <a href="https://html.spec.whatwg.org/multipage/">
-        <img alt="HTML" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-        <img alt="CSS" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-    </a>
-    <a href="https://www.javascript.com/">
-        <img alt="JavaScript" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img alt="TypeScript" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-    </a>
-    <a href="https://reactjs.org/">
-        <img alt="React" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">    
-    </a>
-    <a href="https://tailwindcss.com/">
-        <img alt="Tailwind" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">    
-    </a>
-    <a href="https://nodejs.org/en/">
-        <img alt="Node" width="30em" height="30em" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">    
-    </a>
-</p>
+![HTML](https://img.shields.io/badge/-HTML-191e24?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-191e24?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-191e24?style=for-the-badge&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-191e24?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-191e24?style=for-the-badge&logo=github)&nbsp;
+![React](https://img.shields.io/badge/-React-191e24?style=for-the-badge&logo=React)&nbsp;
