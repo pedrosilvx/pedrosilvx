@@ -15,3 +15,4 @@
 ![Git](https://img.shields.io/badge/-Git-191e24?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-191e24?style=for-the-badge&logo=github)&nbsp;
 ![React](https://img.shields.io/badge/-React-191e24?style=for-the-badge&logo=React)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-191e24?style=for-the-badge&logo=Typescript)&nbsp;
