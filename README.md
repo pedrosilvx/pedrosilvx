@@ -18,3 +18,5 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-191e24?style=for-the-badge&logo=Typescript)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-191e24?style=for-the-badge&logo=Svelte)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-191e24?style=for-the-badge&logo=Lua)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-191e24?style=for-the-badge&logo=Sass)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-191e24?style=for-the-badge&logo=Figma)&nbsp;
